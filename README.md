@@ -2,3 +2,5 @@ This project is about testing a java method which has four parameters; two integ
   
 Tuna Akyürek
 takyurek@etu.edu.tr
+
+[![Build Status](https://travis-ci.org/akyurektuna/481Homework.svg?branch=master)](https://travis-ci.org/akyurektuna/481Homework)
